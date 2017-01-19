@@ -12,7 +12,6 @@ INDEX VERSION 1.129+C:\Users\Brayam Martinez\Documents\selenium_repositorio\.met
 1904741536.index
 4166838873.index
 2831536327.index
-3479212367.index
 3256285438.index
 2312443017.index
 1583927216.index
